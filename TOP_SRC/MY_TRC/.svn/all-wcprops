@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/TOP_SRC/MY_TRC
+END
+trcini_my_trc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/TOP_SRC/MY_TRC/trcini_my_trc.F90
+END
+trcsms_my_trc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/TOP_SRC/MY_TRC/trcsms_my_trc.F90
+END
+trcrst_my_trc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/TOP_SRC/MY_TRC/trcrst_my_trc.F90
+END
+par_my_trc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/TOP_SRC/MY_TRC/par_my_trc.F90
+END
+trcnam_my_trc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/nemo/svn/!svn/ver/3753/branches/2012/dev_v3_4_STABLE_2012/NEMOGCM/NEMO/TOP_SRC/MY_TRC/trcnam_my_trc.F90
+END
