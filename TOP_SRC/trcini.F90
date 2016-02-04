@@ -139,7 +139,7 @@ CONTAINS
         ENDIF
 
        ! IF( lk_bling   )       CALL trc_ini_bling        ! BLING   bio-model
-       trn(:,:,:,jp_bling0:jp_bling1)=trn(:,:,:,jp_bling0:jp_bling1)*1.e3
+       !trn(:,:,:,jp_bling0:jp_bling1)=trn(:,:,:,jp_bling0:jp_bling1)*1.e3
 
         ! Initialize tracer field before time step
         trb(:,:,:,:) = trn(:,:,:,:)
